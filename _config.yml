@@ -1,0 +1,28 @@
+name: PCC
+favicon: null
+layout_spectrum: 0.5896513904444873
+typography_spectrum: 0.7016341660637408
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.042788524413481355
+  lightness: 0.01772380294278264
+  saturation: 0.7264355800580233
+  rhythmicContrast: 0.9720859448425472
+purpose: []
